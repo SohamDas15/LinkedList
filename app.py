@@ -18,6 +18,9 @@ class LinkedList:
         while temp:
             print(temp.data)
             temp = temp.next
+    def add_value_at(self):
+        pass
+
 
 node1 = Node(1)
 
